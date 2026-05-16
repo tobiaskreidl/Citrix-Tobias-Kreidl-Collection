@@ -4,4 +4,4 @@ Tobias Kreidl's collection of Citrix-related articles and discussions, some pull
 This site contains a collection of articles, discussions, and other material that in some cases became defunct
 as blogs and forums were eliminated or the material became hard to find elsewhere. Initially, this site will include
 a few articles from the old Citrix CUGS site specific to XenServer as well as some related forum articles.
-I welcome feedback you located if any other of my contributions that you feel may be worthwhile adding.
+I welcome feedback or if you located any other of my contributions that you feel may be worthwhile adding.
