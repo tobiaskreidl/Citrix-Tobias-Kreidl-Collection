@@ -5,6 +5,4 @@ This site contains a collection of articles, discussions, and other material tha
 as blogs and forums were eliminated or the material became hard to find elsewhere. Initially, this site will include
 a few articles from the old Citrix CUGC site specific to XenServer as well as some related forum articles.
 I welcome feedback or you have located any other of my contributions that you feel may be worthwhile adding.
-Currently, there are two branches:
-XenSever-Articles
-XenServer-Forum-Threads
+Currently, there are two branches: XenSever-Articles and XenServer-Forum-Threads
